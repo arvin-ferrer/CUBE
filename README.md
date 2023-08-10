@@ -5,3 +5,4 @@ If you want to run this game locally follow the steps below
 then copy paste this link
 3. "http://localhost:8360/index.html"
 There's also an executable file that you can run.
+The exe file is in the master branch
