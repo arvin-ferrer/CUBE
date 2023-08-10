@@ -7,4 +7,4 @@ then copy paste this link "http://localhost:8360/index.html"
 If you want to play it right now visit https://lietlaw97.github.io/UNITY_1STGAME/
 The exe file is in the master branch!
 ![Screenshot (1089)](https://github.com/lietlaw97/UNITY_1STGAME/assets/60701881/4b30383e-3ae7-40ff-b888-64f2b87cff82)
-IMPORTANT NOTE: THIS GAME ONLY SUPPORTS ON LAPTOPS & PCS USE "A,D" for movement
+IMPORTANT NOTE: THIS GAME ONLY SUPPORTS LAPTOPS & PCS, USE "A,D" for movement
